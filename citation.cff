@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Mind the Gap 2026 Durham University Summer Research Data Repository"
+message: "If you use this software or data repository, please cite it using the metadata from this file."
+type: dataset
+author:
+  - family-name: "Wong"
+    given-name: "Ho Yan Charlotte"
+repository-code: "https://github.com/charlottewong1603/Mind-the-Gap-2026-Durham-University-Summer-Research-Data-Repository"
+date-released: 2026-07-21
